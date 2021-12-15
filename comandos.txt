@@ -1,0 +1,9 @@
+Comando no terminal para criar um projeto Node.js dentro da pasta do projeto:
+npm init -y 	// Esse -y é para dar Yes como resposta em todas as perguntas de configuração do projeto.
+
+yarn add express	// Pacote gerenciador de rotas.
+
+yarn add puppeteer	// Pacote para uso do webcrawler
+
+
+node server.js  // Comando para iniciar o servidor
